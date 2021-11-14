@@ -1,0 +1,8 @@
+{
+  "name": "Andro foods",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "895575e8"
+}
